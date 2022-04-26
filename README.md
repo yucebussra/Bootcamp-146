@@ -1,7 +1,7 @@
 # Bootcamp-146
 
 ### Takım İsmi
-Takım X
+Takım 146 (tek)
 
 ## Ürün İle İlgili Bilgiler
 
@@ -12,7 +12,9 @@ Büşra Yüce: Product Owner-Scrum Master-Team Member/Developer
 --Yok--
 
 ### Ürün Açıklaması
----
+--Yok--
+
 
 ### Ürün Özellikleri
----
+--Yok--
+
