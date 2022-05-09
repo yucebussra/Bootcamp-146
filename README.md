@@ -26,7 +26,7 @@ Günlük İlaç Takibi (GİT)
 ### Product Backlog
 [Miro Backlog Board](https://)
 
-—
+---
 
 ## Sprint 1
 
