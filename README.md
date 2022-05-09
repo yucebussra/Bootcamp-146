@@ -26,10 +26,22 @@ Günlük İlaç Takibi (GİT)
 ### Product Backlog
 [Miro Backlog Board](https://)
 
----
+—
 
-## Sprint 1
+# Sprint 1
+
+- **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats
+
+- **Sprint board update:** Sprint board screenshotları:
 
 
+- **Ürün Durumu:** Ekran görüntüleri:
+- 
+
+- **Sprint Review:** Alınan kararlar: Yaşanan olumsuzluklardan dolayı tasarım ve kodlama bir sonraki sprint'e aktarılmıştır.
+
+- **Sprint Review:** 
+  * Ürün ismi değiştirilecek.
+  * Tasarımda düzenlemeler yapılacak.
 
 
