@@ -1,20 +1,35 @@
 # Bootcamp-146
 
 ### Takım İsmi
-Takım 146 (tek)
+146 
 
 ## Ürün İle İlgili Bilgiler
 
 ### Takım Elemanları
-Büşra Yüce: Product Owner-Scrum Master-Team Member/Developer
+Büşra Yüce: Product Owner-Scrum Master-Developer- Designer
 
 ### Ürün İsmi
---Yok--
+Günlük İlaç Takibi (GİT)
 
 ### Ürün Açıklaması
---Yok--
-
+- Günlük İlaç Takibi uygulamamız ile insanların ilaçlarını günün belirli saatlerinde mobil cihazlarına gelen bildirimler sayesinde hatırlayıp kullanmalarını sağlayacağız. 
 
 ### Ürün Özellikleri
---Yok--
+- Kullanıcı sayfası
+- İlaç listeleme
+- İlaç kullanım hatırlatıcısı
+
+### Hedef Kitle
+- Hastalar
+- İlaç kullanan kişiler
+
+### Product Backlog
+[Miro Backlog Board](https://)
+
+—
+
+## Sprint 1
+
+
+
 
