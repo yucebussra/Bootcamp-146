@@ -30,7 +30,7 @@ Günlük İlaç Takibi (GİT)
 
 # Sprint 1
 
-- **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats
+- **Daily Scrum:** 
 
 - **Sprint board update:** Sprint board screenshotları:
 
